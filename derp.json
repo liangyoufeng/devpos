@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "901": {
+      "RegionID": 901,
+      "RegionCode": "gz-test",
+      "RegionName": "guangzhou-test",
+      "Nodes": [
+        {
+          "Name": "901a",
+          "RegionID": 901,
+          "DERPPort": 443,
+          "HostName": "143.64.16.33",
+          "IPv4": "143.64.16.33",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
